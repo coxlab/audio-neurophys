@@ -1,0 +1,76 @@
+Added Component: Designator=J?(DSUB1.385-2H25A)
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-22
+Added Pin To Net: NetName=GND Pin=J?-25
+Added Pin To Net: NetName=OUT+1 Pin=J?-24
+Added Pin To Net: NetName=OUT+1 Pin=R2_IN1-1
+Added Pin To Net: NetName=OUT+1 Pin=U1_IN1-4
+Added Net: Name=OUT+1
+Added Pin To Net: NetName=OUT+2 Pin=J?-10
+Added Pin To Net: NetName=OUT+2 Pin=R2_IN2-1
+Added Pin To Net: NetName=OUT+2 Pin=U1_IN2-4
+Added Net: Name=OUT+2
+Added Pin To Net: NetName=OUT+3 Pin=J?-21
+Added Pin To Net: NetName=OUT+3 Pin=R2_IN3-1
+Added Pin To Net: NetName=OUT+3 Pin=U1_IN3-4
+Added Net: Name=OUT+3
+Added Pin To Net: NetName=OUT+4 Pin=J?-7
+Added Pin To Net: NetName=OUT+4 Pin=R2_IN4-1
+Added Pin To Net: NetName=OUT+4 Pin=U1_IN4-4
+Added Net: Name=OUT+4
+Added Pin To Net: NetName=OUT+5 Pin=J?-18
+Added Pin To Net: NetName=OUT+5 Pin=R2_IN5-1
+Added Pin To Net: NetName=OUT+5 Pin=U1_IN5-4
+Added Net: Name=OUT+5
+Added Pin To Net: NetName=OUT+6 Pin=J?-4
+Added Pin To Net: NetName=OUT+6 Pin=R2_IN6-1
+Added Pin To Net: NetName=OUT+6 Pin=U1_IN6-4
+Added Net: Name=OUT+6
+Added Pin To Net: NetName=OUT+7 Pin=J?-15
+Added Pin To Net: NetName=OUT+7 Pin=R2_IN7-1
+Added Pin To Net: NetName=OUT+7 Pin=U1_IN7-4
+Added Net: Name=OUT+7
+Added Pin To Net: NetName=OUT+8 Pin=J?-1
+Added Pin To Net: NetName=OUT+8 Pin=R2_IN8-1
+Added Pin To Net: NetName=OUT+8 Pin=U1_IN8-4
+Added Net: Name=OUT+8
+Added Pin To Net: NetName=OUT-1 Pin=J?-12
+Added Pin To Net: NetName=OUT-1 Pin=R4_IN1-1
+Added Pin To Net: NetName=OUT-1 Pin=U1_IN1-5
+Added Net: Name=OUT-1
+Added Pin To Net: NetName=OUT-2 Pin=J?-23
+Added Pin To Net: NetName=OUT-2 Pin=R4_IN2-1
+Added Pin To Net: NetName=OUT-2 Pin=U1_IN2-5
+Added Net: Name=OUT-2
+Added Pin To Net: NetName=OUT-3 Pin=J?-9
+Added Pin To Net: NetName=OUT-3 Pin=R4_IN3-1
+Added Pin To Net: NetName=OUT-3 Pin=U1_IN3-5
+Added Net: Name=OUT-3
+Added Pin To Net: NetName=OUT-4 Pin=J?-20
+Added Pin To Net: NetName=OUT-4 Pin=R4_IN4-1
+Added Pin To Net: NetName=OUT-4 Pin=U1_IN4-5
+Added Net: Name=OUT-4
+Added Pin To Net: NetName=OUT-5 Pin=J?-6
+Added Pin To Net: NetName=OUT-5 Pin=R4_IN5-1
+Added Pin To Net: NetName=OUT-5 Pin=U1_IN5-5
+Added Net: Name=OUT-5
+Added Pin To Net: NetName=OUT-6 Pin=J?-17
+Added Pin To Net: NetName=OUT-6 Pin=R4_IN6-1
+Added Pin To Net: NetName=OUT-6 Pin=U1_IN6-5
+Added Net: Name=OUT-6
+Added Pin To Net: NetName=OUT-7 Pin=J?-3
+Added Pin To Net: NetName=OUT-7 Pin=R4_IN7-1
+Added Pin To Net: NetName=OUT-7 Pin=U1_IN7-5
+Added Net: Name=OUT-7
+Added Pin To Net: NetName=OUT-8 Pin=J?-14
+Added Pin To Net: NetName=OUT-8 Pin=R4_IN8-1
+Added Pin To Net: NetName=OUT-8 Pin=U1_IN8-5
+Added Net: Name=OUT-8
+Added Class: Name=main
+Added Class: Name=OUT+[1..8]
+Added Class: Name=OUT-[1..8]

@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=OUT+1 Pin=R12_IN1-1
+Removed Pin From Net: NetName=OUT+2 Pin=R12_IN2-1
+Removed Pin From Net: NetName=OUT+3 Pin=R12_IN3-1
+Removed Pin From Net: NetName=OUT+4 Pin=R12_IN4-1
+Removed Pin From Net: NetName=OUT+5 Pin=R12_IN5-1
+Removed Pin From Net: NetName=OUT+6 Pin=R12_IN6-1
+Removed Pin From Net: NetName=OUT+7 Pin=R12_IN7-1
+Removed Pin From Net: NetName=OUT+8 Pin=R12_IN8-1
+Removed Pin From Net: NetName=OUT-1 Pin=R34_IN1-1
+Removed Pin From Net: NetName=OUT-2 Pin=R34_IN2-1
+Removed Pin From Net: NetName=OUT-3 Pin=R34_IN3-1
+Removed Pin From Net: NetName=OUT-4 Pin=R34_IN4-1
+Removed Pin From Net: NetName=OUT-5 Pin=R34_IN5-1
+Removed Pin From Net: NetName=OUT-6 Pin=R34_IN6-1
+Removed Pin From Net: NetName=OUT-7 Pin=R34_IN7-1
+Removed Pin From Net: NetName=OUT-8 Pin=R34_IN8-1
+Removed Member From Class: ClassName=IN1 Member=R12_IN1
+Removed Member From Class: ClassName=IN2 Member=R12_IN2
+Removed Member From Class: ClassName=IN3 Member=R12_IN3
+Removed Member From Class: ClassName=IN4 Member=R12_IN4
+Removed Member From Class: ClassName=IN5 Member=R12_IN5
+Removed Member From Class: ClassName=IN6 Member=R12_IN6
+Removed Member From Class: ClassName=IN7 Member=R12_IN7
+Removed Member From Class: ClassName=IN8 Member=R12_IN8
+Removed Member From Class: ClassName=IN1 Member=R34_IN1
+Removed Member From Class: ClassName=IN2 Member=R34_IN2
+Removed Member From Class: ClassName=IN3 Member=R34_IN3
+Removed Member From Class: ClassName=IN4 Member=R34_IN4
+Removed Member From Class: ClassName=IN5 Member=R34_IN5
+Removed Member From Class: ClassName=IN6 Member=R34_IN6
+Removed Member From Class: ClassName=IN7 Member=R34_IN7
+Removed Member From Class: ClassName=IN8 Member=R34_IN8
+Added Component: Designator=R1_IN1(SOT23-3L)
+Added Component: Designator=R1_IN2(SOT23-3L)
+Added Component: Designator=R1_IN3(SOT23-3L)
+Added Component: Designator=R1_IN4(SOT23-3L)
+Added Component: Designator=R1_IN5(SOT23-3L)
+Added Component: Designator=R1_IN6(SOT23-3L)
+Added Component: Designator=R1_IN7(SOT23-3L)
+Added Component: Designator=R1_IN8(SOT23-3L)
+Added Component: Designator=R2_IN1(SOT23-3L)
+Added Component: Designator=R2_IN2(SOT23-3L)
+Added Component: Designator=R2_IN3(SOT23-3L)
+Added Component: Designator=R2_IN4(SOT23-3L)
+Added Component: Designator=R2_IN5(SOT23-3L)
+Added Component: Designator=R2_IN6(SOT23-3L)
+Added Component: Designator=R2_IN7(SOT23-3L)
+Added Component: Designator=R2_IN8(SOT23-3L)
+Added Pin To Net: NetName=OUT+1 Pin=R1_IN1-1
+Added Pin To Net: NetName=OUT+2 Pin=R1_IN2-1
+Added Pin To Net: NetName=OUT+3 Pin=R1_IN3-1
+Added Pin To Net: NetName=OUT+4 Pin=R1_IN4-1
+Added Pin To Net: NetName=OUT+5 Pin=R1_IN5-1
+Added Pin To Net: NetName=OUT+6 Pin=R1_IN6-1
+Added Pin To Net: NetName=OUT+7 Pin=R1_IN7-1
+Added Pin To Net: NetName=OUT+8 Pin=R1_IN8-1
+Added Pin To Net: NetName=OUT-1 Pin=R2_IN1-1
+Added Pin To Net: NetName=OUT-2 Pin=R2_IN2-1
+Added Pin To Net: NetName=OUT-3 Pin=R2_IN3-1
+Added Pin To Net: NetName=OUT-4 Pin=R2_IN4-1
+Added Pin To Net: NetName=OUT-5 Pin=R2_IN5-1
+Added Pin To Net: NetName=OUT-6 Pin=R2_IN6-1
+Added Pin To Net: NetName=OUT-7 Pin=R2_IN7-1
+Added Pin To Net: NetName=OUT-8 Pin=R2_IN8-1
+Added Pin To Net: NetName=NetR1_IN1_2 Pin=R1_IN1-2
+Added Pin To Net: NetName=NetR1_IN1_2 Pin=U1_IN1-8
+Added Net: Name=NetR1_IN1_2
+Added Pin To Net: NetName=NetR1_IN2_2 Pin=R1_IN2-2
+Added Pin To Net: NetName=NetR1_IN2_2 Pin=U1_IN2-8
+Added Net: Name=NetR1_IN2_2
+Added Pin To Net: NetName=NetR1_IN3_2 Pin=R1_IN3-2
+Added Pin To Net: NetName=NetR1_IN3_2 Pin=U1_IN3-8
+Added Net: Name=NetR1_IN3_2
+Added Pin To Net: NetName=NetR1_IN4_2 Pin=R1_IN4-2
+Added Pin To Net: NetName=NetR1_IN4_2 Pin=U1_IN4-8
+Added Net: Name=NetR1_IN4_2
+Added Pin To Net: NetName=NetR1_IN5_2 Pin=R1_IN5-2
+Added Pin To Net: NetName=NetR1_IN5_2 Pin=U1_IN5-8
+Added Net: Name=NetR1_IN5_2
+Added Pin To Net: NetName=NetR1_IN6_2 Pin=R1_IN6-2
+Added Pin To Net: NetName=NetR1_IN6_2 Pin=U1_IN6-8
+Added Net: Name=NetR1_IN6_2
+Added Pin To Net: NetName=NetR1_IN7_2 Pin=R1_IN7-2
+Added Pin To Net: NetName=NetR1_IN7_2 Pin=U1_IN7-8
+Added Net: Name=NetR1_IN7_2
+Added Pin To Net: NetName=NetR1_IN8_2 Pin=R1_IN8-2
+Added Pin To Net: NetName=NetR1_IN8_2 Pin=U1_IN8-8
+Added Net: Name=NetR1_IN8_2
+Added Pin To Net: NetName=NetR2_IN1_2 Pin=R2_IN1-2
+Added Pin To Net: NetName=NetR2_IN1_2 Pin=U1_IN1-1
+Added Net: Name=NetR2_IN1_2
+Added Pin To Net: NetName=NetR2_IN2_2 Pin=R2_IN2-2
+Added Pin To Net: NetName=NetR2_IN2_2 Pin=U1_IN2-1
+Added Net: Name=NetR2_IN2_2
+Added Pin To Net: NetName=NetR2_IN3_2 Pin=R2_IN3-2
+Added Pin To Net: NetName=NetR2_IN3_2 Pin=U1_IN3-1
+Added Net: Name=NetR2_IN3_2
+Added Pin To Net: NetName=NetR2_IN4_2 Pin=R2_IN4-2
+Added Pin To Net: NetName=NetR2_IN4_2 Pin=U1_IN4-1
+Added Net: Name=NetR2_IN4_2
+Added Pin To Net: NetName=NetR2_IN5_2 Pin=R2_IN5-2
+Added Pin To Net: NetName=NetR2_IN5_2 Pin=U1_IN5-1
+Added Net: Name=NetR2_IN5_2
+Added Pin To Net: NetName=NetR2_IN6_2 Pin=R2_IN6-2
+Added Pin To Net: NetName=NetR2_IN6_2 Pin=U1_IN6-1
+Added Net: Name=NetR2_IN6_2
+Added Pin To Net: NetName=NetR2_IN7_2 Pin=R2_IN7-2
+Added Pin To Net: NetName=NetR2_IN7_2 Pin=U1_IN7-1
+Added Net: Name=NetR2_IN7_2
+Added Pin To Net: NetName=NetR2_IN8_2 Pin=R2_IN8-2
+Added Pin To Net: NetName=NetR2_IN8_2 Pin=U1_IN8-1
+Added Net: Name=NetR2_IN8_2
+Added Member To Class: ClassName=IN1 Member=Component R1_IN1 (R1) 1k / 100k
+Added Member To Class: ClassName=IN2 Member=Component R1_IN2 (R1) 1k / 100k
+Added Member To Class: ClassName=IN3 Member=Component R1_IN3 (R1) 1k / 100k
+Added Member To Class: ClassName=IN4 Member=Component R1_IN4 (R1) 1k / 100k
+Added Member To Class: ClassName=IN5 Member=Component R1_IN5 (R1) 1k / 100k
+Added Member To Class: ClassName=IN6 Member=Component R1_IN6 (R1) 1k / 100k
+Added Member To Class: ClassName=IN7 Member=Component R1_IN7 (R1) 1k / 100k
+Added Member To Class: ClassName=IN8 Member=Component R1_IN8 (R1) 1k / 100k
+Added Member To Class: ClassName=IN1 Member=Component R2_IN1 (R2) 1k / 100k
+Added Member To Class: ClassName=IN2 Member=Component R2_IN2 (R2) 1k / 100k
+Added Member To Class: ClassName=IN3 Member=Component R2_IN3 (R2) 1k / 100k
+Added Member To Class: ClassName=IN4 Member=Component R2_IN4 (R2) 1k / 100k
+Added Member To Class: ClassName=IN5 Member=Component R2_IN5 (R2) 1k / 100k
+Added Member To Class: ClassName=IN6 Member=Component R2_IN6 (R2) 1k / 100k
+Added Member To Class: ClassName=IN7 Member=Component R2_IN7 (R2) 1k / 100k
+Added Member To Class: ClassName=IN8 Member=Component R2_IN8 (R2) 1k / 100k

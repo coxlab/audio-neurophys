@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R_IN1 NewDesignator=R2_IN1
+Change Component Designator: OldDesignator=R_IN2 NewDesignator=R2_IN2
+Change Component Designator: OldDesignator=R_IN3 NewDesignator=R2_IN3
+Change Component Designator: OldDesignator=R_IN4 NewDesignator=R2_IN4
+Change Component Designator: OldDesignator=R_IN5 NewDesignator=R2_IN5
+Change Component Designator: OldDesignator=R_IN6 NewDesignator=R2_IN6
+Change Component Designator: OldDesignator=R_IN7 NewDesignator=R2_IN7
+Change Component Designator: OldDesignator=R_IN8 NewDesignator=R2_IN8
+Change Net Name : Old Net Name=NetR_IN2_2 New Net Name=NetR2_IN2_2
+Change Net Name : Old Net Name=NetR_IN3_2 New Net Name=NetR2_IN3_2
+Change Net Name : Old Net Name=NetR_IN6_2 New Net Name=NetR2_IN6_2
+Change Net Name : Old Net Name=NetR_IN8_2 New Net Name=NetR2_IN8_2
+Added Pin To Net: NetName=NetR1_IN1_2 Pin=U1_IN1-8
+Added Net: Name=NetR1_IN1_2
+Added Pin To Net: NetName=NetR1_IN2_2 Pin=U1_IN2-8
+Added Net: Name=NetR1_IN2_2
+Added Pin To Net: NetName=NetR1_IN3_2 Pin=U1_IN3-8
+Added Net: Name=NetR1_IN3_2
+Added Pin To Net: NetName=NetR1_IN4_2 Pin=U1_IN4-8
+Added Net: Name=NetR1_IN4_2
+Added Pin To Net: NetName=NetR1_IN5_2 Pin=U1_IN5-8
+Added Net: Name=NetR1_IN5_2
+Added Pin To Net: NetName=NetR1_IN6_2 Pin=U1_IN6-8
+Added Net: Name=NetR1_IN6_2
+Added Pin To Net: NetName=NetR1_IN7_2 Pin=U1_IN7-8
+Added Net: Name=NetR1_IN7_2
+Added Pin To Net: NetName=NetR1_IN8_2 Pin=U1_IN8-8
+Added Net: Name=NetR1_IN8_2
+Added Pin To Net: NetName=NetR2_IN1_2 Pin=R2_IN1-2
+Added Pin To Net: NetName=NetR2_IN1_2 Pin=U1_IN1-1
+Added Net: Name=NetR2_IN1_2
+Added Pin To Net: NetName=NetR2_IN4_2 Pin=R2_IN4-2
+Added Pin To Net: NetName=NetR2_IN4_2 Pin=U1_IN4-1
+Added Net: Name=NetR2_IN4_2
+Added Pin To Net: NetName=NetR2_IN5_2 Pin=R2_IN5-2
+Added Pin To Net: NetName=NetR2_IN5_2 Pin=U1_IN5-1
+Added Net: Name=NetR2_IN5_2
+Added Pin To Net: NetName=NetR2_IN7_2 Pin=R2_IN7-2
+Added Pin To Net: NetName=NetR2_IN7_2 Pin=U1_IN7-1
+Added Net: Name=NetR2_IN7_2

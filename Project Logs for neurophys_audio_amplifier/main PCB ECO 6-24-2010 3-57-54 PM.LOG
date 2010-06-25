@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=VEE Pin=U1_IN1-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN2-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN3-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN4-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN5-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN6-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN7-7
+Removed Pin From Net: NetName=VEE Pin=U1_IN8-7
+Added Component: Designator=C1_IN1(CAPC1608L)
+Added Component: Designator=C1_IN2(CAPC1608L)
+Added Component: Designator=C1_IN3(CAPC1608L)
+Added Component: Designator=C1_IN4(CAPC1608L)
+Added Component: Designator=C1_IN5(CAPC1608L)
+Added Component: Designator=C1_IN6(CAPC1608L)
+Added Component: Designator=C1_IN7(CAPC1608L)
+Added Component: Designator=C1_IN8(CAPC1608L)
+Added Component: Designator=C2_IN1(CAPC1608L)
+Added Component: Designator=C2_IN2(CAPC1608L)
+Added Component: Designator=C2_IN3(CAPC1608L)
+Added Component: Designator=C2_IN4(CAPC1608L)
+Added Component: Designator=C2_IN5(CAPC1608L)
+Added Component: Designator=C2_IN6(CAPC1608L)
+Added Component: Designator=C2_IN7(CAPC1608L)
+Added Component: Designator=C2_IN8(CAPC1608L)
+Added Component: Designator=C3(CAPPR5-5x5)
+Added Component: Designator=C4(CAPPR5-5x5)
+Added Pin To Net: NetName=GND Pin=C1_IN1-1
+Added Pin To Net: NetName=VCC Pin=C1_IN1-2
+Added Pin To Net: NetName=GND Pin=C1_IN2-1
+Added Pin To Net: NetName=VCC Pin=C1_IN2-2
+Added Pin To Net: NetName=GND Pin=C1_IN3-1
+Added Pin To Net: NetName=VCC Pin=C1_IN3-2
+Added Pin To Net: NetName=GND Pin=C1_IN4-1
+Added Pin To Net: NetName=VCC Pin=C1_IN4-2
+Added Pin To Net: NetName=GND Pin=C1_IN5-1
+Added Pin To Net: NetName=VCC Pin=C1_IN5-2
+Added Pin To Net: NetName=GND Pin=C1_IN6-1
+Added Pin To Net: NetName=VCC Pin=C1_IN6-2
+Added Pin To Net: NetName=GND Pin=C1_IN7-1
+Added Pin To Net: NetName=VCC Pin=C1_IN7-2
+Added Pin To Net: NetName=GND Pin=C1_IN8-1
+Added Pin To Net: NetName=VCC Pin=C1_IN8-2
+Added Pin To Net: NetName=GND Pin=C2_IN1-1
+Added Pin To Net: NetName=VEE Pin=C2_IN1-2
+Added Pin To Net: NetName=GND Pin=C2_IN2-1
+Added Pin To Net: NetName=VEE Pin=C2_IN2-2
+Added Pin To Net: NetName=GND Pin=C2_IN3-1
+Added Pin To Net: NetName=VEE Pin=C2_IN3-2
+Added Pin To Net: NetName=GND Pin=C2_IN4-1
+Added Pin To Net: NetName=VEE Pin=C2_IN4-2
+Added Pin To Net: NetName=GND Pin=C2_IN5-1
+Added Pin To Net: NetName=VEE Pin=C2_IN5-2
+Added Pin To Net: NetName=GND Pin=C2_IN6-1
+Added Pin To Net: NetName=VEE Pin=C2_IN6-2
+Added Pin To Net: NetName=GND Pin=C2_IN7-1
+Added Pin To Net: NetName=VEE Pin=C2_IN7-2
+Added Pin To Net: NetName=GND Pin=C2_IN8-1
+Added Pin To Net: NetName=VEE Pin=C2_IN8-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=GND Pin=U1_IN1-7
+Added Pin To Net: NetName=GND Pin=U1_IN2-7
+Added Pin To Net: NetName=GND Pin=U1_IN3-7
+Added Pin To Net: NetName=GND Pin=U1_IN4-7
+Added Pin To Net: NetName=GND Pin=U1_IN5-7
+Added Pin To Net: NetName=GND Pin=U1_IN6-7
+Added Pin To Net: NetName=GND Pin=U1_IN7-7
+Added Pin To Net: NetName=GND Pin=U1_IN8-7
+Added Class: Name=main
+Added Member To Class: ClassName=IN1 Member=Component C1_IN1 (C1) Cap Semi
+Added Member To Class: ClassName=IN2 Member=Component C1_IN2 (C1) Cap Semi
+Added Member To Class: ClassName=IN3 Member=Component C1_IN3 (C1) Cap Semi
+Added Member To Class: ClassName=IN4 Member=Component C1_IN4 (C1) Cap Semi
+Added Member To Class: ClassName=IN5 Member=Component C1_IN5 (C1) Cap Semi
+Added Member To Class: ClassName=IN6 Member=Component C1_IN6 (C1) Cap Semi
+Added Member To Class: ClassName=IN7 Member=Component C1_IN7 (C1) Cap Semi
+Added Member To Class: ClassName=IN8 Member=Component C1_IN8 (C1) Cap Semi
+Added Member To Class: ClassName=IN1 Member=Component C2_IN1 (C2) Cap Semi
+Added Member To Class: ClassName=IN2 Member=Component C2_IN2 (C2) Cap Semi
+Added Member To Class: ClassName=IN3 Member=Component C2_IN3 (C2) Cap Semi
+Added Member To Class: ClassName=IN4 Member=Component C2_IN4 (C2) Cap Semi
+Added Member To Class: ClassName=IN5 Member=Component C2_IN5 (C2) Cap Semi
+Added Member To Class: ClassName=IN6 Member=Component C2_IN6 (C2) Cap Semi
+Added Member To Class: ClassName=IN7 Member=Component C2_IN7 (C2) Cap Semi
+Added Member To Class: ClassName=IN8 Member=Component C2_IN8 (C2) Cap Semi

@@ -1,0 +1,18 @@
+Change Net Name : Old Net Name=INPUT+1 New Net Name=IN+1
+Change Net Name : Old Net Name=INPUT+2 New Net Name=IN+2
+Change Net Name : Old Net Name=INPUT+3 New Net Name=IN+3
+Change Net Name : Old Net Name=INPUT+4 New Net Name=IN+4
+Change Net Name : Old Net Name=INPUT+5 New Net Name=IN+5
+Change Net Name : Old Net Name=INPUT+6 New Net Name=IN+6
+Change Net Name : Old Net Name=INPUT+7 New Net Name=IN+7
+Change Net Name : Old Net Name=INPUT+8 New Net Name=IN+8
+Change Net Name : Old Net Name=INPUT-1 New Net Name=IN-1
+Change Net Name : Old Net Name=INPUT-2 New Net Name=IN-2
+Change Net Name : Old Net Name=INPUT-3 New Net Name=IN-3
+Change Net Name : Old Net Name=INPUT-4 New Net Name=IN-4
+Change Net Name : Old Net Name=INPUT-5 New Net Name=IN-5
+Change Net Name : Old Net Name=INPUT-6 New Net Name=IN-6
+Change Net Name : Old Net Name=INPUT-7 New Net Name=IN-7
+Change Net Name : Old Net Name=INPUT-8 New Net Name=IN-8
+Added Class: Name=IN+[1..8]
+Added Class: Name=IN-[1..8]

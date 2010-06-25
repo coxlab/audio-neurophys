@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN1|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN2|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN3|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN4|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN5|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN6|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN7|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=IN8|SchDesignator=Repeat(IN, 1, 8)|FileName=diff_amp.SchDoc|SymbolType=Normal|RawFileName=diff_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=main.SchDoc
