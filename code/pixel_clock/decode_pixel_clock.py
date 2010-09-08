@@ -11,7 +11,7 @@ project_path = sys.argv[1]  # where the audio files are
 recording_number = int(sys.argv[2]) # e.g. 9, for #09
 
 pixclock_prefix = "PixClock "
-velocity_threshold = 0.25
+velocity_threshold = 0.025
 
 positive_transitions = []
 negative_transitions = []
@@ -34,13 +34,13 @@ plt.figure()
 plt.hold(True)
 
 for c in range(0,4):
-    for t in positive_transitions:
+    for t in positive_transitions[c]:
         plt.plot(c, t, '+')
     
-    for t in negative_transitions:
+    for t in negative_transitions[c]:
         plt.plot(c, t, 'o')
         
     
-
+plt.show()
 
 
