@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import sys
+import os
 from numpy import *
 from scipy import *
 import scikits.audiolab as audiolab
@@ -12,12 +13,12 @@ recording_number = int(sys.argv[2]) # e.g. 9, for #09
 pixclock_prefix = "PixClock "
 velocity_threshold = 0.25
 
-position_transitions = []
+positive_transitions = []
 negative_transitions = []
 
 for c in range(0,4):
 
-    filepath = os.join(project_path, "%s%d #%.2d" % (pixclock_prefix, c, recording_number))
+    filepath = os.path.join(project_path, "%s%d#%.2d.wav" % (pixclock_prefix, c+1, recording_number))
 
     print(filepath)
 
@@ -26,14 +27,14 @@ for c in range(0,4):
     wav_velocity = diff(wav_data)
     smooth_wav_velocity = convolve(wav_velocity, ones((100)))
 
-    positive_transitions[c] = where(smooth_wav_velocity > velocity_threshold)
-    negative_transitions[c] = where(smooth_wav_velocity < -velocity_threshold)
+    positive_transitions.append(where(smooth_wav_velocity > velocity_threshold)[0])
+    negative_transitions.append(where(smooth_wav_velocity < -velocity_threshold)[0])
 
 plt.figure()
 plt.hold(True)
 
 for c in range(0,4):
-    for t in position_transitions:
+    for t in positive_transitions:
         plt.plot(c, t, '+')
     
     for t in negative_transitions:
